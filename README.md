@@ -1,1 +1,1 @@
-# master-admin-panel-Typescript
+# inventory-management-admin-frontend
